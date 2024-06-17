@@ -1,0 +1,16 @@
+
+one:
+  follower: anil 
+  followed: lana
+
+two:
+  follower: anil 
+  followed: malory
+
+three:
+  follower: lana 
+  followed: anil
+
+four:
+  follower: amit 
+  followed: anil
