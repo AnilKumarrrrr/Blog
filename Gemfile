@@ -76,3 +76,5 @@ gem "bcrypt"
 gem "faker"
 gem 'will_paginate', '~> 3.3'
 gem "bootstrap-will_paginate"
+gem "image_processing",           "1.12.2"
+gem "active_storage_validations", "0.9.8"
